@@ -12,3 +12,4 @@ The project is developed in cpp and consists of 4 modules:
   * Sensors
 
 We use the libraries provided by navio and in addition we use RTIMULIB to apply a kalman filter of the sensors.
+As communication protocol we use zenoh
