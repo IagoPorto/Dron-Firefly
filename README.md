@@ -1,6 +1,6 @@
-# Dron-Firefly 🚁✨
+# Drone-Firefly 🚁✨
 
-Dron-Firefly is an embedded real-time system project focused on developing and programming a drone using a Raspberry Pi and a Navio board. 🚁✨
+Drone-Firefly is an embedded real-time system project focused on developing and programming a drone using a Raspberry Pi and a Navio board. 🚁✨
 
 <p align="center">
   <img src="./dron2.png" alt="Drone Side View" width="45%">
